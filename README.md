@@ -29,3 +29,4 @@ feel free to use them in your own projects. just make sure u have the permission
 ---
 
 if u find this useful, drop a star on the repo.
+if you wanna add ur own emojis dm @2007x_xx on discord or @codinginvsc on telegram.
